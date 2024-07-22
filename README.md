@@ -29,17 +29,17 @@
 
 5 Put double quote before and after the address line..
 
-6 cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /dstatus and Press ENTER
+6 `cscript "C:\Program Files\Microsoft Office\Office15\ospp.vbs" /dstatus` and Press ENTER
 
-                         or
-                         
-6 cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /dstatus and Press ENTER
+ OR 
+ 
+6 `cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /dstatus` and Press ENTER
 
 7 There will be one text written as (Last 5 character of installed product key : XXXXX) the poduct key displays the last 5 digit of product key
 
 8 Now, press arrow up key to redo the first command.
 
-9 Delete dstatus and type unpkey: <Enter the Last 5 character of installed product key> and Press ENTER
+9 `Delete dstatus and type unpkey: <Enter the Last 5 character of installed product key>` and Press ENTER
 
 10 That's it...EZ
 
